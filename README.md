@@ -1,9 +1,6 @@
 # 50_SQL_Questions_My_Answers
 These are my answers for the 50 SQL interview questions from leetcode.com.
-https://leetcode.com/studyplan/top-sql-50/
-
+'https://leetcode.com/studyplan/top-sql-50/'
 	From these I learned a lot about different functions. I had problems with my code that I was able to solve intuitively with my SQL knowledge, or by learning about new functions, such as the 'REGEX_LIKE' and 'DENSE_RANK' functions that were new to me. I also learned a lot about how to use SQL in ways I never thought of, like cross joining a table with itself to get the necessary table for the question. I also learned to join a table on another, not by joining on two like columns, but two different ones. Such as in the example where I joined on the employee_id with the manager_id. That was something that I had never considered doing before.
-
 	In this project I gained knowledge of regex, which I usually didn't use and went with other possible solutions. It is good to learn to solve things two different ways, as in other cases I may need one or the other to solve problems and do queries. I also gained experience as to when to use 'WHERE' and when to use 'HAVING'. The differences aren't always intuitive, so its good to get more of a feel for when to use which. I also gained practice in remembering to use 'GROUP BY' when aggregating and when to use 'ORDER BY'. 
-
 	I learned many more things over the course of these questions and found it quite enjoyable to solve the problems myself. I also used some AI, Googling, and the solutions page for help in the harder questions.
